@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /i18n_with_query_string_lang
+Disallow: /forbidden
+Allow: /i18n_with_query_string_lang/google.html?lang=
+Sitemap: http://lab.andretw.com/seo/sitemap.xml
